@@ -1,0 +1,16 @@
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.exe
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.deps.json
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.runtimeconfig.dev.json
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.dll
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\ref\exercicio 4.dll
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\bin\Debug\net5.0\exercicio 4.pdb
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.dll
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\ref\exercicio 4.dll
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.pdb
+C:\Users\anton\OneDrive\Documentos\MeusProjetos\exercicios-csharp\exercicio 4\obj\Debug\net5.0\exercicio 4.genruntimeconfig.cache
