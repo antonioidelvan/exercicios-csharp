@@ -10,7 +10,7 @@ namespace exercicios_csharp
             // Valor da mercadoria
             float mercadoriaValor;
             // Porcentagem de desconto
-            int porcentagemDesconto;
+            float porcentagemDesconto;
             // Valor final com desconto
             float valorDesconto;
             // Valor fixo para porcentagem
@@ -21,7 +21,7 @@ namespace exercicios_csharp
             Console.WriteLine("Qual o valor da mercadoria?");
             mercadoriaValor = float.Parse(Console.ReadLine());
             Console.WriteLine("Qual a % de desconto?");
-            porcentagemDesconto = int.Parse(Console.ReadLine());
+            porcentagemDesconto = float.Parse(Console.ReadLine());
 
             valorDesconto = mercadoriaValor * porcentagemDesconto/porcentagem;
             valorFinal = mercadoriaValor - valorDesconto;
