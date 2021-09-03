@@ -1,3 +1,3 @@
-# Exercícios C#
+# Exercícios de C#
  Treino de C# atraves de exercícios
- Ajude me corrigindo ou sugerindo melhorias. :D
+ <p>Ajude me corrigindo ou sugerindo melhorias. :D</p>
