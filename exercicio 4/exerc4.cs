@@ -19,7 +19,7 @@ namespace exercicio_4
             valorProduto = float.Parse(Console.ReadLine());
 
             if(valorProduto <= 20) {
-                valorAcrecimo = valorProduto ;
+                valorAcrecimo = valorProduto;
 
                 valorAcrecimo = valorProduto * porcentagem45/porcentagem;
                 valorFinal = valorProduto + valorAcrecimo;

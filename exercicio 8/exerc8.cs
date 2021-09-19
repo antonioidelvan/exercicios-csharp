@@ -7,6 +7,8 @@ namespace exercicio_8
     {
         static void Main(string[] args)
         {
+            int quantosNumeros;
+            
             Console.WriteLine("Hello World!");
         }
     }

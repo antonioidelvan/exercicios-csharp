@@ -7,7 +7,30 @@ namespace exercicio_6
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            float valorNormal;
+            int numeroParcelas;
+
+            Console.Write("Qual o valor do produto? R$ ");
+            valorNormal = float.Parse(Console.ReadLine());
+            
+            Console.Write("Quantas parcelas? ");
+            numeroParcelas = int.Parse(Console.ReadLine());
+
+            switch (numeroParcelas) 
+            {
+                case 1:
+                    Console.WriteLine("Você ira pagar R$ " + valorNormal);
+                    break;
+                case 2:
+                    Console.WriteLine("Você ira pagar R$ " + (valorNormal * 1.10));
+                    break;
+                case 3:
+                    Console.WriteLine("Você ira pagar R$ " + (valorNormal * 1.20));
+                    break;
+                default:
+                    Console.WriteLine("Número de parcelas não suportado");
+                    break;
+            }
         }
     }
 }
