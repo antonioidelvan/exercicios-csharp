@@ -8,7 +8,37 @@ namespace exercicio_9
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int quantidadeLados;
+            float medidaLado, areaQuadrado, perimetroPentagono;
+
+            Console.Write("Qual a quantidade de lados? ");
+            quantidadeLados = int.Parse(Console.ReadLine());
+
+            Console.Write("Qual a medida dos lados? ");
+            medidaLado = float.Parse(Console.ReadLine());
+
+            switch (quantidadeLados)
+            {
+                case 3:
+                    Console.WriteLine("Esse polígono é um Triângulo equilátero");
+                break;
+
+                case 4:
+                    Console.WriteLine("Esse polígono é um Quadrilátero quadrado");
+                    areaQuadrado = (medidaLado * 2);
+                    Console.WriteLine("A área do quadrado é " + areaQuadrado);
+                break;
+
+                case 5:
+                    Console.WriteLine("Esse polígono é um Pentágono");
+                    perimetroPentagono = (medidaLado * 5);
+                    Console.WriteLine("O perímetro do Pentágono é " + perimetroPentagono);
+                break;
+
+                default:
+                    Console.WriteLine("Polígono não-identificado");
+                break;
+            }
         }
     }
 }

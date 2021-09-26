@@ -7,7 +7,24 @@ namespace exercicio_5
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            float quantidadePontos1, quantidadePontos2, quantidadePontos3, importancia = 780000, pontosTotais, premio1Lugar, premio2Lugar, premio3Lugar;
+
+            Console.Write("Qual a quantidade de pontos do primeiro colocado? ");
+            quantidadePontos1 = float.Parse(Console.ReadLine());
+
+            Console.Write("Qual a quantidade de pontos do segundo colocado? ");
+            quantidadePontos2 = float.Parse(Console.ReadLine());
+
+            Console.Write("Qual a quantidade de pontos do terceiro colocado? ");
+            quantidadePontos3 = float.Parse(Console.ReadLine());
+
+            pontosTotais = quantidadePontos1 + quantidadePontos2 + quantidadePontos3;
+
+            premio1Lugar = (quantidadePontos1 / pontosTotais) * importancia;
+            premio2Lugar = (quantidadePontos2 / pontosTotais) * importancia;
+            premio3Lugar = (quantidadePontos3 / pontosTotais) * importancia;
+
+            Console.WriteLine("Os 3 colocados ficaram respectivamente com " + premio1Lugar + ", " + premio2Lugar + " e " + premio3Lugar);
         }
     }
 }

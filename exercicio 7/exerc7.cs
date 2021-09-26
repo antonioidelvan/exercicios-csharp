@@ -7,7 +7,26 @@ namespace exercicio_7
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
+            int par = 0, impar = 0, i, numero;
+            Random numeroAleatorio = new Random();
+
+            for (i = 1; i <= 200; i++)
+            {
+                numero = (numeroAleatorio.Next(0,200));
+                Console.WriteLine(numero);
+
+                if (numero % 2 == 0)
+                {
+                    par++;
+                }
+                
+                else
+                {
+                    impar++;
+                }
+                
+            }
+            Console.WriteLine("A quantidade de pares é " + par + " e a quantidade de impares é " + impar);
         }
-    }
+    } 
 }

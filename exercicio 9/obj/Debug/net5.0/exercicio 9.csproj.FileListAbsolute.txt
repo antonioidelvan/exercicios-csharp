@@ -1,0 +1,16 @@
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9.deps.json
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9.runtimeconfig.json
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9.runtimeconfig.dev.json
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9.dll
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/ref/exercicio 9.dll
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/bin/Debug/net5.0/exercicio 9.pdb
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.csproj.AssemblyReference.cache
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.GeneratedMSBuildEditorConfig.editorconfig
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.AssemblyInfoInputs.cache
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.AssemblyInfo.cs
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.csproj.CoreCompileInputs.cache
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.dll
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/ref/exercicio 9.dll
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.pdb
+/home/antonio/Documentos/GitHub/antonioidelvan/antonioidelvan/exercicios-csharp/exercicio 9/obj/Debug/net5.0/exercicio 9.genruntimeconfig.cache
