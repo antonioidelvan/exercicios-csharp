@@ -22,7 +22,6 @@ for (int i = 0; i < tamanho; i++)
         quantidadeImpares++;
     }
 }
-
 for (int i = 0; i < quantidadePares; i++)
 {
     Console.WriteLine("Os números pares digitados são: {0} ", numerosPares[i]);

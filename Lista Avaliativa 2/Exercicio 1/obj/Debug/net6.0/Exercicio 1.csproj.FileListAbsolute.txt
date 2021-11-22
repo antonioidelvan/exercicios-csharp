@@ -1,0 +1,15 @@
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.csproj.AssemblyReference.cache
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.GeneratedMSBuildEditorConfig.editorconfig
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.AssemblyInfoInputs.cache
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.AssemblyInfo.cs
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.csproj.CoreCompileInputs.cache
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/Exercicio 1
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/Exercicio 1.deps.json
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/Exercicio 1.runtimeconfig.json
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/Exercicio 1.dll
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/ref/Exercicio 1.dll
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/bin/Debug/net6.0/Exercicio 1.pdb
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.dll
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/ref/Exercicio 1.dll
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.pdb
+/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/Debug/net6.0/Exercicio 1.genruntimeconfig.cache
