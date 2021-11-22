@@ -8,24 +8,26 @@
     "net6.0": []
   },
   "packageFolders": {
-    "/Users/ifmaker-stevejobs/.nuget/packages/": {}
+    "C:\\Users\\anton\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/Exercicio 1.csproj",
+      "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Exercicio 1\\Exercicio 1.csproj",
       "projectName": "Exercicio 1",
-      "projectPath": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/Exercicio 1.csproj",
-      "packagesPath": "/Users/ifmaker-stevejobs/.nuget/packages/",
-      "outputPath": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Exercicio 1/obj/",
+      "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Exercicio 1\\Exercicio 1.csproj",
+      "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Exercicio 1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "/Users/ifmaker-stevejobs/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net6.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -58,7 +60,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
       }
     }
   }

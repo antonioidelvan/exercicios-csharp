@@ -1,4 +1,4 @@
-﻿const int tamanho = 5, tamanhoPar = 5, tamanhoImpar = 5;
+﻿const int tamanho = 10, tamanhoPar = 10, tamanhoImpar = 10;
 int quantidadePares = 0, quantidadeImpares = 0;
 
 int[] numeroQualquer = new int[tamanho];
