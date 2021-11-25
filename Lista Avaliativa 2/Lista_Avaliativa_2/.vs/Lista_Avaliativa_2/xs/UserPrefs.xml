@@ -1,8 +1,8 @@
 ﻿<Properties StartupConfiguration="{9536A006-201F-4B73-86C6-668AC0510FEB}|Default">
-  <MonoDevelop.Ide.ItemProperties.Lista__Avaliativa__2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.Lista__Avaliativa__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Lista_Avaliativa_2/Program.cs">
     <Files>
-      <File FileName="Lista_Avaliativa_2/Program.cs" Line="158" Column="1" />
+      <File FileName="Lista_Avaliativa_2/Program.cs" Line="197" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,6 +13,9 @@
             </Node>
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
