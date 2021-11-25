@@ -156,6 +156,43 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio5()
         {
+            int totalPecas = 0;
+
+            int[] quantidadePecasVendidas = new int[10];
+            float[] precoCadaPeca = new float[10];
+            float[] totalVenda = new float[10];
+
+            for(int i = 0; i < 10; i++)
+            {
+                Console.Write("Quantas peças o Vendedor {0} vendeu? ", i);
+                quantidadePecasVendidas[i] = int.Parse(Console.ReadLine());
+
+                Console.Write("Qual é o valor de cada peça que o vendedor {0} vendeu? ", i);
+                precoCadaPeca[i] = float.Parse(Console.ReadLine());
+            }
+
+            for(int i = 0; i < quantidadePecasVendidas.Length; i++)
+            {
+                totalPecas += quantidadePecasVendidas[i];
+            }
+
+            for(int i = 0; i < 10; i++)
+            {
+                totalVenda[i] = quantidadePecasVendidas[i] * precoCadaPeca[i];
+            }
+
+            Console.Clear();
+
+            Console.WriteLine("Foi vendido um total de {0} peças.", totalPecas);
+
+            for(int i = 0; i < 10; i++)
+            {
+                Console.WriteLine(" O vendedor {0} faturou um total de R$ {1}", i, totalVenda[i]);
+            }
+        }
+
+        static void Exercicio6()
+        {
 
         }
     }
