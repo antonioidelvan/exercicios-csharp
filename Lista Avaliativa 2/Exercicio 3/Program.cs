@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-﻿
-=======
 ﻿int tamanho = 5;
 
 int[] primeiroVetor = new int[tamanho];
@@ -40,4 +37,3 @@ foreach (int valores in juncaoVetor)
 {
     Console.WriteLine(valores);
 }
->>>>>>> 8736e2aac84839184769fe56ea553c016049e926

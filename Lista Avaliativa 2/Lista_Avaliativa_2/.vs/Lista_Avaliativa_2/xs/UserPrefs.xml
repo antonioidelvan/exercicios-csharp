@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{9536A006-201F-4B73-86C6-668AC0510FEB}|Default">
+  <MonoDevelop.Ide.ItemProperties.Lista__Avaliativa__2 FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Lista_Avaliativa_2/Program.cs">
+    <Files>
+      <File FileName="Lista_Avaliativa_2/Program.cs" Line="158" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Lista_Avaliativa_2" expanded="True">
+            <Node name="Lista_Avaliativa_2" expanded="True">
+              <Node name="Program.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
