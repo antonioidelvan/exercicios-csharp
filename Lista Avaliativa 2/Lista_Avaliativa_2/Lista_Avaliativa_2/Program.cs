@@ -193,6 +193,59 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio6()
         {
+            int linha = 3, coluna = 2;
+            float contadorPar = 0, mediaTotal = 0, somaImpar = 0;
+            float[,] matriz = new float[linha,coluna];
+
+            for (int i = 0; i < linha; i++)
+			{
+                for (int j = 0; j < coluna; j++)
+                {
+                    Console.Write("Informe o elemento ({0},{1}) ", i, j);
+                    matriz[i, j] = float.Parse(Console.ReadLine());
+
+                    if (matriz[i,j] % 2 == 0)
+                    {
+                        contadorPar++;
+                    }
+
+                    else
+                    {
+                        somaImpar += matriz[i,j];
+                    }
+                    mediaTotal += matriz[i,j];
+                    mediaTotal = mediaTotal / 12;
+                }
+			}
+            Console.Clear();
+            Console.Write("{0} números são Pares, {1} é a soma de todos os números impares e {2} é a média de todos os valores.", contadorPar, somaImpar, mediaTotal);
+        }
+
+        static void Exercicio7() 
+        {
+            int linha = 7, coluna = 8;
+            int linhaMaior; colunaMenor;
+            int[,] matriz = new int[linha,coluna];
+            int[] maiorLinha = new int[linha];
+            int[] menorColuna = new int[coluna];
+
+            for (int i = 0; i < linha; i++)
+            {
+                for (int j = 0; j < coluna; j++)
+                {
+                    Console.Write("Informe o elemento ({0},{1}) ", i, j);
+                    matriz[i, j] = int.Parse(Console.ReadLine());
+                }
+            }
+
+             for (int i = 0; i < linha; i++)
+            {
+                for (int j = 0; j < coluna; j++)
+                {
+                    linhaMaior = matriz[0, 0]
+                }
+            }
+
 
         }
     }
