@@ -2,22 +2,8 @@
   <MonoDevelop.Ide.ItemProperties.Lista__Avaliativa__2 PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Lista_Avaliativa_2/Program.cs">
     <Files>
-      <File FileName="Lista_Avaliativa_2/Program.cs" Line="197" Column="10" />
+      <File FileName="Lista_Avaliativa_2/Program.cs" Line="226" Column="38" />
     </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="Lista_Avaliativa_2" expanded="True">
-            <Node name="Lista_Avaliativa_2" expanded="True">
-              <Node name="Program.cs" selected="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-      <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State />
-      </Pad>
-    </Pads>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />

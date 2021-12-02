@@ -1,10 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sp7pVSb/3sBHIDxuiEJ/mY2e2+kCUSsGgH9JNDVpCSMMGimoTi7gdFWrJYNOQVE7lyiPXW/eWLIWCedX8iex6Q==",
+  "dgSpecHash": "5w8qze4CA9JksmpC2FzZTjSnZwcV3Xn64XKFwIrMZeFEhSZ/BiOnbCsQPu/4MhaX7FGD/j+AcyjORYvzg3C0lA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\Lista_Avaliativa_2.csproj",
-  "expectedPackageFiles": [
-    "C:\\Users\\anton\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.12\\microsoft.netcore.app.host.win-x64.5.0.12.nupkg.sha512"
-  ],
+  "projectFilePath": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/Lista_Avaliativa_2.csproj",
+  "expectedPackageFiles": [],
   "logs": []
 }

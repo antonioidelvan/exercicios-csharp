@@ -223,8 +223,7 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio7() 
         {
-            int linha = 7, coluna = 8;
-            int linhaMaior; colunaMenor;
+            int linha = 7, coluna = 7;
             int[,] matriz = new int[linha,coluna];
             int[] maiorLinha = new int[linha];
             int[] menorColuna = new int[coluna];
@@ -238,14 +237,20 @@ namespace Lista_Avaliativa_2
                 }
             }
 
-             for (int i = 0; i < linha; i++)
-            {
-                for (int j = 0; j < coluna; j++)
-                {
-                    linhaMaior = matriz[0, 0]
-                }
-            }
+        }
 
+        static void Exercicio8()
+        {
+
+        }
+
+        static void Exercicio9()
+        {
+
+        }
+
+        static void Exercicicio10()
+        {
 
         }
     }

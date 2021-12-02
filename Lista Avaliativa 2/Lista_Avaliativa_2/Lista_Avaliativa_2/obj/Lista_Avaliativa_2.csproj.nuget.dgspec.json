@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\Lista_Avaliativa_2.csproj": {}
+    "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/Lista_Avaliativa_2.csproj": {}
   },
   "projects": {
-    "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\Lista_Avaliativa_2.csproj": {
+    "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/Lista_Avaliativa_2.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\Lista_Avaliativa_2.csproj",
+        "projectUniqueName": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/Lista_Avaliativa_2.csproj",
         "projectName": "Lista_Avaliativa_2",
-        "projectPath": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\Lista_Avaliativa_2.csproj",
-        "packagesPath": "C:\\Users\\anton\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\anton\\OneDrive\\Documentos\\GitHub\\exercicios-csharp\\Lista Avaliativa 2\\Lista_Avaliativa_2\\Lista_Avaliativa_2\\obj\\",
+        "projectPath": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/Lista_Avaliativa_2.csproj",
+        "packagesPath": "/Users/ifmaker-stevejobs/.nuget/packages/",
+        "outputPath": "/Users/ifmaker-stevejobs/Documents/GitHub/exercicios-csharp/Lista Avaliativa 2/Lista_Avaliativa_2/Lista_Avaliativa_2/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\anton\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "/Users/ifmaker-stevejobs/.config/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
@@ -49,18 +47,12 @@
           ],
           "assetTargetFallback": true,
           "warn": true,
-          "downloadDependencies": [
-            {
-              "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[5.0.12, 5.0.12]"
-            }
-          ],
           "frameworkReferences": {
             "Microsoft.NETCore.App": {
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.100\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/6.0.100/RuntimeIdentifierGraph.json"
         }
       }
     }
