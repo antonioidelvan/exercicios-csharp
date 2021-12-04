@@ -78,11 +78,11 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio3()
         {
-            int tamanho = 5;
+            int tamanho = 10;
 
             int[] primeiroVetor = new int[tamanho];
             int[] segundoVetor = new int[tamanho];
-            int[] juncaoVetor = new int[10];
+            int[] juncaoVetor = new int[20];
 
             int primeiroIndex = 0, segundoIndex = 0;
 
@@ -98,7 +98,7 @@ namespace Lista_Avaliativa_2
                 segundoVetor[i] = int.Parse(Console.ReadLine());
             }
 
-            for (int i = 0; i < 10; i++)
+            for (int i = 0; i < 20; i++)
             {
                 if (i % 2 == 0)
                 {
@@ -193,7 +193,7 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio6()
         {
-            int linha = 3, coluna = 2;
+            int linha = 3, coluna = 4;
             float contadorPar = 0, mediaTotal = 0, somaImpar = 0;
             float[,] matriz = new float[linha,coluna];
 
@@ -310,7 +310,7 @@ namespace Lista_Avaliativa_2
             int idade = 0;
             float peso = 0, altura = 0;
             float mediaIdadesCadaTimes = 0, porcentagem80quilos, somaAlturas = 0, mediaAlturasTotal = 0;
-            int quantidadeJogadoresPorTime = 2, quantidadeTimes = 1, jogadoresTotais = 2, mais80quilos = 0, somaIdades = 0, quantidadeMenor18 = 0;
+            int quantidadeJogadoresPorTime = 11, quantidadeTimes = 5, jogadoresTotais = 55, mais80quilos = 0, somaIdades = 0, quantidadeMenor18 = 0;
 
             for (int i = 0; i < quantidadeTimes; i++)
             {
@@ -368,7 +368,7 @@ namespace Lista_Avaliativa_2
         * A seguir, multiplique cada elemento da matriz pela soma da linha e mostre 
         * a matriz resultante.*/
 
-        int numeroLinhas = 3, numeroColunas = 3, soma;
+        int numeroLinhas = 10, numeroColunas = 20, soma;
 
         int[,] matriz = new int[numeroLinhas, numeroColunas];
         int[] somaLinhas = new int[numeroLinhas];
