@@ -6,7 +6,16 @@ namespace Lista_Avaliativa_2
     {
         static void Main(string[] args)
         {
-            Exercicio9();
+            // Exercicio1();
+            // Exercicio2();
+            // Exercicio3();
+            // Exercicio4();
+            // Exercicio5();
+            // Exercicio6();
+            // Exercicio7();
+            // Exercicio8();
+            // Exercicio9();
+            // Exercicio10();
         }
 
         static void Exercicio1()
@@ -395,9 +404,47 @@ namespace Lista_Avaliativa_2
             }
         }
 
-        static void Exercicicio10()
+        static void Exercicio10()
         {
-            
+/* Na teoria dos sistemas, define-se o elemento MINMAX de uma matriz como sendo o maior elemento da linha onde se encontra o menor elemento da matriz. Faça um programa C# que carregue uma matriz 4 x 7 com números reais, calcule e mostre o seu MINMAX e sua posição (linha e coluna).*/
+
+        int numeroLinhas = 4, numeroColunas = 7, linha, coluna;
+        float menor, minMax;
+        float[,] matriz = new float[numeroLinhas, numeroColunas];
+
+        for (int i = 0; i < numeroLinhas; i++)
+        {
+            for (int j = 0; j < numeroColunas; j++)
+            {
+                Console.Write("Informe o elemento ({0},{1}) ", i, j);
+                matriz[i, j] = int.Parse(Console.ReadLine());
+            }
+        }
+        menor = matriz[0,0];
+        linha = 0;
+        for (int i = 0; i < numeroLinhas; i++)
+        {
+            for (int j = 0; j < numeroColunas; j++)
+            {
+                if (matriz[i,j] < menor)
+                {
+                    menor = matriz[i,j];
+                    linha = i;
+                }
+            }
+        }
+        minMax = matriz[linha,0];
+        coluna = 0;
+        for (int j = 0; j < numeroColunas; j++)
+        {
+            if (matriz[linha,j] > minMax)
+            {
+                minMax = matriz[linha,j];
+                coluna = j;
+            }
+        }
+        Console.WriteLine();
+        Console.Write("O valor do MINMAX é {0}, e sua posição é ({1},{2})", minMax, linha, coluna);
         }
     }
 }
