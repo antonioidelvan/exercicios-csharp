@@ -6,16 +6,7 @@ namespace Lista_Avaliativa_2
     {
         static void Main(string[] args)
         {
-            // Exercicio1();
-            // Exercicio2();
-            // Exercicio3();
-            // Exercicio4();
-            // Exercicio5();
-            // Exercicio6();
-            // Exercicio7();
-            // Exercicio8();
-            // Exercicio9();
-            // Exercicio10();
+            Exercicio9();
         }
 
         static void Exercicio1()
@@ -121,7 +112,7 @@ namespace Lista_Avaliativa_2
 
         static void Exercicio4()
         {
-            int tamanho = 13;
+            int tamanho = 15;
             float maior = 0;
             float[] vetor = new float[tamanho];
             float[] resultadoVetor = new float[tamanho];
@@ -224,28 +215,184 @@ namespace Lista_Avaliativa_2
         static void Exercicio7() 
         {
             int linha = 7, coluna = 7;
-            int[,] matriz = new int[linha,coluna];
-            int[] maiorLinha = new int[linha];
-            int[] menorColuna = new int[coluna];
+            float maior = 0, menor = 0;
+            float[,] matriz = new float[linha,coluna];
+            float[] maiorLinha = new float[linha];
+            float[] menorColuna = new float[coluna];
 
             for (int i = 0; i < linha; i++)
             {
                 for (int j = 0; j < coluna; j++)
                 {
                     Console.Write("Informe o elemento ({0},{1}) ", i, j);
-                    matriz[i, j] = int.Parse(Console.ReadLine());
+                    matriz[i, j] = float.Parse(Console.ReadLine());
                 }
+            }
+
+            maior = matriz[0,0];
+
+            for (int i = 0; i < linha; i++)
+            {
+                maior = matriz[i,0];
+                for (int j = 0; j < coluna; j++)
+                {
+                    if (matriz[i,j] > maior)
+                    {
+                        maior = matriz[i,j];
+                    }
+                }
+                maiorLinha[i] = maior;
+            }
+
+            menor = matriz[0,0];
+
+            for (int j = 0; j < coluna; j++)
+            {
+                for (int i = 0; i < linha; i++)
+                {
+                    if (matriz[i,j] < menor)
+                    {
+                        menor = matriz[i,j];
+                    }
+                }
+                menorColuna[j] = menor;
+                menor = maiorLinha[j];
+            }
+
+            Console.Clear();
+            Console.WriteLine("A matriz digitada foi: ");
+
+            for (int i = 0; i < linha; i++)
+            {
+                for (int j = 0; j < coluna; j++)
+                {
+                    Console.Write("\t" + matriz[i,j]);
+                }
+                Console.WriteLine();
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("O maior elemento de cada linha foi: ");
+            for (int i = 0; i < linha; i++)
+            {
+                Console.Write("\t" + maiorLinha[i]);
+            }
+
+            Console.WriteLine();
+
+            Console.WriteLine("O menor elemento de cada coluna foi: ");
+            for (int i = 0; i < coluna; i++)
+            {
+                Console.Write("\t" + menorColuna[i]);
             }
 
         }
 
         static void Exercicio8()
         {
+            /* Faça um programa C# que receba a idade, o peso e a altura de cada um dos jogadores dos cinco times que estão competindo um campeonato de futebol (cada time possui onze jogadores), calcule e mostre:
+            
+            * a quantidade de jogadores com idade inferior a 18 anos;
+            * a média das idades dos jogadores de cada time;
+            * a média das alturas de todos os jogadores do campeonato;
+            * a porcentagem de jogadores com mais de 80 quilos entre todos os jogadores do campeonato. */
 
+            int idade = 0;
+            float peso = 0, altura = 0;
+            float mediaIdadesCadaTimes = 0, porcentagem80quilos, somaAlturas = 0, mediaAlturasTotal = 0;
+            int quantidadeJogadoresPorTime = 2, quantidadeTimes = 1, jogadoresTotais = 2, mais80quilos = 0, somaIdades = 0, quantidadeMenor18 = 0;
+
+            for (int i = 0; i < quantidadeTimes; i++)
+            {
+                somaIdades = 0;
+                Console.WriteLine("TIME {0}", i);
+                
+                for (int j = 0; j < quantidadeJogadoresPorTime; j++)
+                {
+                    Console.Write("Qual é a idade do jogador {0}: ", j);
+                    idade = int.Parse(Console.ReadLine());
+
+                    Console.Write("Qual é a altura do jogador {0}: ", j);
+                    altura = float.Parse(Console.ReadLine());
+
+                    Console.Write("Qual é o peso do jogador {0}: ", j);
+                    peso = float.Parse(Console.ReadLine());
+
+                    Console.WriteLine();
+
+                    if (idade < 18)
+                    {
+                        quantidadeMenor18++;
+                    }
+
+                    if (peso > 80)
+                    {
+                        mais80quilos++;
+                    }
+
+                    somaAlturas += altura;
+                    somaIdades += idade;
+
+                    mediaIdadesCadaTimes = somaIdades / quantidadeJogadoresPorTime;
+                }
+                mediaIdadesCadaTimes = somaIdades / quantidadeJogadoresPorTime;
+                Console.WriteLine("A média das idades do time {0} é {1}", i, mediaIdadesCadaTimes);
+            }
+            mediaAlturasTotal = somaAlturas / jogadoresTotais;
+            porcentagem80quilos = mais80quilos * 100 / jogadoresTotais;
+
+            Console.WriteLine("A quantidade de jogadores com menos de 18 anos é {0}", quantidadeMenor18);
+
+            Console.WriteLine("A média das alturas de todos os jogadores do campeonato é {0}", mediaAlturasTotal);
+
+            Console.WriteLine("A porcentagem de jogadores com mais de 80 quilos entre todos os jogadores do campeonato é {0}%", porcentagem80quilos);
+
+            Console.WriteLine();
         }
 
         static void Exercicio9()
         {
+        /* Atividade Avaliativa - Exercício 9
+        * Elabore um programa C# que carregue uma matriz 10 x 20 com números inteiros e 
+        * some cada uma das linhas, armazenando o resultado das somas em um vetor. 
+        * A seguir, multiplique cada elemento da matriz pela soma da linha e mostre 
+        * a matriz resultante.*/
+
+        int numeroLinhas = 3, numeroColunas = 3, soma;
+
+        int[,] matriz = new int[numeroLinhas, numeroColunas];
+        int[] somaLinhas = new int[numeroLinhas];
+        int[,] resultanteMatriz = new int[numeroLinhas, numeroColunas];
+
+        for (int i = 0; i < numeroLinhas; i++)
+        {
+        soma = 0;
+            for (int j = 0; j < numeroColunas; j++)
+            {
+                Console.Write("Informe o elemento ({0},{1}) ", i, j);
+                matriz[i, j] = int.Parse(Console.ReadLine());
+                soma += matriz[i,j];
+            }
+            somaLinhas[i] = soma;
+        }
+
+            Console.WriteLine("A soma de cada linha é igual a: ");
+            for (int i = 0; i < numeroLinhas; i++)
+            {
+                Console.WriteLine(somaLinhas[i]);
+            }
+
+            Console.WriteLine("A matriz resultante da multiplicação da soma das linhas por cada valor: ");
+            for (int i = 0; i < numeroLinhas; i++)
+            {
+                for (int j = 0; j < numeroColunas; j++)
+                    {
+                        resultanteMatriz[i,j] = somaLinhas[i] * matriz[i,j];
+                        Console.Write("\t" + resultanteMatriz[i,j]);
+                    }
+            }
+            Console.WriteLine();
 
         }
 

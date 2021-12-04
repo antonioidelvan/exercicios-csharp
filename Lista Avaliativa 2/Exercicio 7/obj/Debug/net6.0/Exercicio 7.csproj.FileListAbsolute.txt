@@ -1,0 +1,15 @@
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\Exercicio 7.exe
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\Exercicio 7.deps.json
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\Exercicio 7.runtimeconfig.json
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\Exercicio 7.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\ref\Exercicio 7.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\bin\Debug\net6.0\Exercicio 7.pdb
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\ref\Exercicio 7.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.pdb
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Exercicio 7\obj\Debug\net6.0\Exercicio 7.genruntimeconfig.cache

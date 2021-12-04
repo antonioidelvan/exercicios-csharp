@@ -29,3 +29,11 @@ C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\L
 C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\Lista_Avaliativa_2\obj\Debug\net5.0\ref\Lista_Avaliativa_2.dll
 C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.pdb
 C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.genruntimeconfig.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.csproj.AssemblyReference.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.AssemblyInfoInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.AssemblyInfo.cs
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.csproj.CoreCompileInputs.cache
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\ref\Lista_Avaliativa_2.dll
+C:\Users\anton\OneDrive\Documentos\GitHub\exercicios-csharp\Lista Avaliativa 2\Lista_Avaliativa_2\obj\Debug\net5.0\Lista_Avaliativa_2.pdb
